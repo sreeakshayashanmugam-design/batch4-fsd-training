@@ -1,0 +1,26 @@
+body {
+    background-color: #eaf4ff;
+}
+
+.design {
+    width: 300px;
+    padding: 30px;
+    margin: 100px auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 1px 5px 15px gray;
+}
+
+h2 {
+    color: #0066cc;
+}
+
+button {
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}

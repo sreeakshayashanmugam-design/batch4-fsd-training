@@ -1,0 +1,17 @@
+Activity 1: How the Internet Works
+I learned how a browser sends a request to the server.
+The server gets data from the database.
+The server sends the response back to the browser.
+Finally, the result is displayed to the user.
+
+Activity 2: Logic Building Challenge
+I learned to understand the problem before coding.
+We used flowcharts and pseudocode to plan the logic.
+We solved problems step by step.
+This helped me improve my logical thinking.
+
+Activity 3: Real-world Scenario Mapping
+I learned how real-world applications work.
+Frontend is used for the user interface.
+Backend handles the main processing.
+Database stores the application data.
